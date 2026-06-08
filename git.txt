@@ -1,0 +1,20 @@
+仓库地址
+
+  https://github.com/li55886/GD32_Projects
+
+  目录结构：
+  GD32_Projects/
+  ├── Screw_Claw/    ← 螺丝爪控制
+  ├── LiftV1.6/      ← 电梯 V1.6
+  └── README.md
+
+  ---
+  怎么用
+
+  # 任何电脑上拉取
+  git clone https://github.com/li55886/GD32_Projects.git
+
+  # 本地改完代码后，一键推送所有改动
+  git add -A
+  git commit -m "更新说明"
+  git push
